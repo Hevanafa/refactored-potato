@@ -17,8 +17,8 @@ namespace TutorialGame
 			//var d = new Doodle();
 			//var a = new Arkanoid();
 			//var s = new Snake();
-			var m = new Minesweeper();
-			//var f = new Fifteen();
+			//var m = new Minesweeper();
+			var f = new Fifteen();
 		}
 	}
 }
