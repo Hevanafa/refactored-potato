@@ -18,7 +18,8 @@ namespace TutorialGame
 			//var a = new Arkanoid();
 			//var s = new Snake();
 			//var m = new Minesweeper();
-			var f = new Fifteen();
+			//var f = new Fifteen();
+			var r = new Racing();
 		}
 	}
 }

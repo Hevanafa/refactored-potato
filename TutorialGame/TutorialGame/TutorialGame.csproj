@@ -68,6 +68,7 @@
     <Compile Include="Games\04 Snake.cs" />
     <Compile Include="Games\05 Minesweeper.cs" />
     <Compile Include="Games\06 Fifteen-Puzzle.cs" />
+    <Compile Include="Games\07 Racing %28Top Down%29.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -148,6 +149,12 @@
     <None Include="images\06\15.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="images\07\background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="images\07\car.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="libsndfile-1.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -183,6 +190,7 @@
     <Folder Include="images\04" />
     <Folder Include="images\05" />
     <Folder Include="images\06" />
+    <Folder Include="images\07" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
